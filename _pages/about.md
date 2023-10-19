@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-[Han Liu](https://kaixuanli-ecnu.github.io/) is now a Ph.D. candidate in Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
+[Han Liu](https://helayliu.github.io/) (刘晗 in Chinese) is now a Ph.D. candidate in Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
 He is also a visiting student at [Nanyang Technologial University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024.
 
 Research Interests
