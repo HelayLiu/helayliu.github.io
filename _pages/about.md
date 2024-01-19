@@ -18,7 +18,7 @@ My primary research interests revolve around the domains of Software Security, e
 
 News
 ======
-* December 2023: "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024 (CCF-A).
+* December 2023: Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024 (CCF-A).
 * July 2023: Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023 (CCF-A).
 * January 2023: Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023 (CCF-A).
 
