@@ -18,6 +18,8 @@ My primary research interests revolve around the domains of Software Security, e
 
 News
 ======
+* Han Liu has passed his PhD thesis defense!
+* April 2024: Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” was accepted by FSE 2024 (CCF-A).
 * December 2023: Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024 (CCF-A).
 * July 2023: Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023 (CCF-A).
 * January 2023: Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023 (CCF-A).
@@ -30,7 +32,7 @@ MSR 2024 - Junior PC Member
 
 ### Sub-Reviewer:
 
-CCS-2024, ISSTA-2024, AISACCS-2024, WWW-2024, ASE-2023, FSE-2023, FSE-2022
+NDSS-2025, CCS-2024, ISSTA-2024, AISACCS-2024, WWW-2024, ASE-2023, FSE-2023, FSE-2022
 
 <!-- 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
