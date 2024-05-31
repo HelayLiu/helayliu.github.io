@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-[Dr. Han Liu](https://helayliu.github.io/) (刘晗 in Chinese) obtained his Ph.D. dgree in Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
+[Dr. Han Liu](https://helayliu.github.io/) (刘晗 in Chinese) will join the Hong Kong University of Science and Technology as a postdoctoral scholar in August, 2024. He obtained his Ph.D. dgree in Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
 He is also a visiting student at [Nanyang Technologial University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024.
 
 Research Interests
@@ -18,7 +18,8 @@ My primary research interests revolve around the domains of Software Security, e
 
 News
 ======
-* Han Liu has passed his PhD thesis defense!
+* May 2024: Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024 (CCF-A).
+* May 2024: I have passed my Ph.D thesis defense!
 * April 2024: Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” was accepted by FSE 2024 (CCF-A).
 * December 2023: Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024 (CCF-A).
 * July 2023: Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023 (CCF-A).
