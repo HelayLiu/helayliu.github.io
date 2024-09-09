@@ -31,4 +31,4 @@ main:
     url: "/publication/"
 
   - title: "CV"
-    url: "https://cdn.jsdelivr.net/gh/IzaiahSun/izaiahsun.github.io@cv/cv.pdf"
+    url: "/cv/CV.pdf"
