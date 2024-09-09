@@ -17,20 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuqiang Sun (孙宇强 in Chinese) is now a Ph.D. student in School of Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
-Before Ph.D. study, he got his bachelor degree in Sichuan University.
-His research interests include program analysis, vulnerability detection and patch generation.
+Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof. Shuai Wang](https://home.cse.ust.hk/~shuaiw/) and [Prof. Daoyuan Wu](https://daoyuan14.github.io/), in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST). He obtained his Ph.D. dgree in Software Engineering Institute at East China Normal University (ECNU), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). He is also a visiting student at Nanyang Technologial University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024. His research interests include program analysis, vulnerability detection.
 He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Happy new year! Our preprint "LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning" was available on Arxiv! 
-- *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted to appear in ACM SIGSOFT International Conference on Software Engineering (ICSE), Lisbon, Portugal, 2024.
-- *2023.08*: &nbsp;🎉🎉 He passed Qualifying Examination (QE) and became a Ph.D. candidate.
-- *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
-- *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student. 
+- *2024.09*: &nbsp;🎉🎉 I joined the Hong Kong University of Science and Technology as a postdoctoral scholar.
+- *2024.07*: &nbsp;🎉🎉Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024.
+- *2024.07*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an ACM SIGSOFT Distinguished Paper award! 🏆
+- *2024.05*: &nbsp;🎉🎉 Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
+- *2024.05*: &nbsp;🎉🎉 I have passed my Ph.D thesis defense.
+- *2024.04*: &nbsp;🎉🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” was accepted by FSE 2024.
+- *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024.
+- *2023.07*: &nbsp;🎉🎉 Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023.
+- *2023.01*: &nbsp;🎉🎉 Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023.
+- *2022.02*: &nbsp;🎉🎉 I joined Nanyang Technological University as a visiting Ph.D. student. 
 
 # 📝 Selected Publications [[Full List](/publication/)]
 
@@ -39,58 +42,63 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 <!-- </div>
 </div> -->
+- [PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software](https://doi.org/10.1145/3650212.3680305) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2407.17065-B31B1B?style=flat-square)](https://arxiv.org/pdf/2407.17065)
+  - Kaixuan Li, Jian Zhang, Sen Chen, **Han Liu**, Yang Liu, Yixiang Chen
+  - The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)
 
 - [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)[![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
-  - Han Liu, Daoyuan Wu, **Yuqiang Sun**, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
-  - Usenix Security 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:WF5omc3nYNoC'></span></strong>
-  - This paper is about using static analysis to find the unsafe implementations of OpenZeppelin based projects.
+  - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
+  - Usenix Security 2024 
   - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
   - ZepScope is now open-sourced. Find more at [this website](https://zepscope.github.io/).
 
-- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/abs/2405.02580) 
-[![](https://img.shields.io/badge/arXiv-2405.02580-B31B1B?style=flat-square)](https://arxiv.org/abs/2405.02580)
-  - Ye Liu, Yue Xue, Daoyuan Wu, **Yuqiang Sun**, Yi Li, Miaolei Shi, Yang Liu
-  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
-  - This paper is about generating formal verification rules with LLM for vulnerability detection.
 
-- [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications](https://arxiv.org/abs/2403.16073) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2025-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2403.16073-B31B1B?style=flat-square)](https://arxiv.org/abs/2403.16073)
-  - Wei Ma, Daoyuan Wu, **Yuqiang Sun**, Tianwen Wang, Shangqing Liu, Jian Zhang, Yue Xue, Yang Liu
-  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:W7OEmFMy1HYC'></span></strong>
-  - This paper is about fine-tuning LLMs with knowledge about logic bugs in smart contract to detect vulnerabilities.
+- [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://doi.org/10.1145/3660772) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2404.18186-B31B1B?style=flat-square)](https://arxiv.org/pdf/2404.18186)
+  - Kaixuan Li, Yue Xue, Sen Chen, **Han Liu**, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, Yixiang Chen
+  - The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+  - ACM SIGSOFT Distinguished Paper award 🏆
+
+- [FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools.](https://arxiv.org/abs/2403.16032) 
+[![](https://img.shields.io/badge/arXiv-2401.16185-B31B1B?style=flat-square)](https://arxiv.org/pdf/2403.16032)
+  - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, Kaixuan Li, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, Yang Liu.
+  - Preprint 
+
 
 - [LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning](https://arxiv.org/abs/2401.16185) 
 [![](https://img.shields.io/badge/arXiv-2401.16185-B31B1B?style=flat-square)](https://arxiv.org/abs/2401.16185)
-  - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Wei Ma, Lyuye Zhang, Miaolei Shi, Yang Liu
-  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:zYLM7Y9cAGgC'></span></strong>
-  - This paper is about enhancing the ability of LLMs in detecting vulnerabilities by providing extra knowledege and external tools. 
+  - Yuqiang Sun, Daoyuan Wu, Yue Xue, **Han Liu**, Wei Ma, Lyuye Zhang, Miaolei Shi, Yang Liu
+  - Preprint 
 
 - [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/abs/10.1145/3597503.3639117)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
-  - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
-  - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:YsMSGLbcyi4C'></span></strong>
-  - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
+  - Yuqiang Sun, Daoyuan Wu, Yue Xue, **Han Liu**, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
+  - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024)  
   - [Slides for ICSE 2024](/assets/pdf/GPTScanSlides.pdf)
   - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
 
-- [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
-  - **Yuqiang Sun**, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu
-  - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
-  - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
+- [Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java](https://doi.org/10.1145/3611643.3616262.) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)]()
+  - Kaixuan Li, Sen Chen, Lingling Fan, Ruitao Feng, **Han Liu**, Chengwei Liu, Yang Liu, Yixiang Chen
+  - The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
+
+- [A Comprehensive Study on Quality Assurance Tools for Java](https://doi.org/10.1145/3597926.3598056) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2305.16812-B31B1B?style=flat-square)](https://arxiv.org/abs/2305.16812)
+  - **Han Liu**, Sen Chen, Ruitao Feng, Chengwei Liu, Kaixuan Li, Zhengzi Xu, Liming Nie, Yang Liu, Yixiang Chen.
+  - The 32nd International Symposium on Software Testing and Analysis (ISSTA 2023)
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2021.08 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
-- *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+# 📖 Educations & Work Experience
+- *2024.09 - Now*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
+- *2022.02 - 2024.02, visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
+- *2019.09 - 2024.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China. 
 
-# 💬 Invited Talks
-- *2024.05*, Transforming Language Models into Smart Contract Audit Experts. GeekCon 2024 @ Singapore
-  - [Slides](/assets/pdf/geekcon2024.pdf)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
@@ -98,12 +106,12 @@ He hopes to collaborate with more innovative researchers on various exciting top
 # 📫 Services
 
 - Junior PC: MSR 2024
-- Artifact Evaluation: Usenix Security 2024, ISSTA 2024
-- Journals: TDSC
-- Sub-reviewer: ICSE, ISSTA, ASE, RAID, AisaCCS, ICICS
+- Sub-reviewer: Usenix Security 2025, ICSE-2025, NDSS-2025, ASE-2024, CCS-2024, ISSTA-2024, AISACCS-2024, WWW-2024, ASE-2023, FSE-2023, AILA 2023, FSE-2022, AILA 2022, Frontiers of Computer Science
 
 
-# 📚 Teaching
 
-- Teaching Assistant of SC1003: Introduction to Computer Thinking and Programming, NTU, 2023 Fall
-- Teaching Assistant of SC1006: Computer Organization and Architecture, NTU, 2023 Spring
+# 🎖 Honors and Awards
+- ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
+- Shanghai Outstanding Graduate Student, Shanghai Municipal Education Commission, 2024.
+- Publicly Funded Postgraduate Scholarships, China Scholarship Council, 2022
+- "HUAWEI CUP" 17th China Post-Graduate Mathematical Contest in Modeling 3rd Prize, 2020

@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuqiang Sun"
-description              : "He is a third year Ph.D. candidate working on software engineering and security."
-repository               : "izaiahsun/izaiahsun.github.io"
+title                    : "Dr. Han Liu"
+description              : "He is a post-doc scholar working on software engineering and security."
+repository               : "helayliu/helayliu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-6905Z49J6E # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  p342874227 #G-6905Z49J6E # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -24,15 +24,15 @@ bibtex                   : "assets/bibtex/myref.bib"
 
 # Site Author
 author:
-  name             : "Yuqiang Sun"
-  avatar           : "/images/avatar.png"
-  bio              : "Nanyang Technological University"
-  location         : "Singapore"
+  name             : "Han Liu"
+  avatar           : "/images/photo.jpg"
+  bio              : "The Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=KAWDTzsAAAAJ"
-  email            : "suny0056@e.ntu.edu.sg"
-  researchgate     : "https://www.researchgate.net/profile/Yuqiang-Sun-5" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=jUBnlCoAAAAJ&hl=en"
+  email            : "liuhan970623@gmail.com"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,21 +40,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "IzaiahSun" # e.g., "github username"
+  github           : "HelayLiu" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yuqiang-sun-633023217" # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/36/7625-1.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-4340-3371" # e.g., "https://orcid.org/xxxx"
+  linkedin         :  # e.g., "linkedin username"
+  dblp             :  # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0009-0000-8384-7933" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "IzaiahSun"
+  twitter          : "liuhan555"
   vine             :
   weibo            :
   xing             :
