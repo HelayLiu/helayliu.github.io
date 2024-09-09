@@ -93,9 +93,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 [![](https://img.shields.io/badge/RuanJianXueBao-blue?style=flat-square)]() 
   - **Han Liu**,Kaixuan Li, Yixiang Chen.
   - Ruan Jian Xue Bao/Journal of Software (in Chinese)
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 # 📖 Educations & Work Experience
 - *2024.09 - Now*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
