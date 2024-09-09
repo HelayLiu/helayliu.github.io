@@ -89,7 +89,10 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - **Han Liu**, Sen Chen, Ruitao Feng, Chengwei Liu, Kaixuan Li, Zhengzi Xu, Liming Nie, Yang Liu, Yixiang Chen.
   - The 32nd International Symposium on Software Testing and Analysis (ISSTA 2023)
 
-
+- [Survey on Trustworthiness Measurement for Artificial Intelligence Systems](http://www.jos.org.cn/1000-9825/6592.htm) 
+[![](https://img.shields.io/badge/RuanJianXueBao-blue?style=flat-square)]() 
+  - **Han Liu**,Kaixuan Li, Yixiang Chen.
+  - Ruan Jian Xue Bao/Journal of Software (in Chinese)
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
