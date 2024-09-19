@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dr. Han Liu"
+title                    : "Han Liu's Homepage"
 description              : "He is a post-doc scholar working on software engineering and security."
 repository               : "helayliu/helayliu.github.io"
 google_scholar_stats_use_cdn : true
@@ -31,7 +31,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=jUBnlCoAAAAJ&hl=en"
-  email            : "liuhan970623@gmail.com"
+  email            : "liuhan@ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
