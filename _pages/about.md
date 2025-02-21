@@ -79,16 +79,14 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - [Slides for ICSE 2024](/assets/pdf/GPTScanSlides.pdf)
   - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
 
-
-
-- [Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java](https://doi.org/10.1145/3611643.3616262.) 
+- [Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java](https://doi.org/10.1145/3611643.3616262) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)]()
   - Kaixuan Li, Sen Chen, Lingling Fan, Ruitao Feng, **Han Liu**, Chengwei Liu, Yang Liu, Yixiang Chen
   - The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 
 - [A Comprehensive Study on Quality Assurance Tools for Java](https://doi.org/10.1145/3597926.3598056) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2305.16812-B31B1B?style=flat-square)](https://arxiv.org/abs/2305.16812)
-  - **Han Liu**, Sen Chen, Ruitao Feng, Chengwei Liu, Kaixuan Li, Zhengzi Xu, Liming Nie, Yang Liu, Yixiang Chen.
+  - **Han Liu**, Sen Chen, Ruitao Feng, Chengwei Liu, Kaixuan Li, Zhengzi Xu, Liming Nie, Yang Liu, Yixiang Chen
   - The 32nd International Symposium on Software Testing and Analysis (ISSTA 2023)
 
 - [Survey on Trustworthiness Measurement for Artificial Intelligence Systems](http://www.jos.org.cn/1000-9825/6592.htm) 
@@ -99,7 +97,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 📖 Educations & Work Experience
 - *2024.09 - Now*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
-- *2022.02 - 2024.02, visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
+- *2022.02 - 2024.02*, visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
 - *2019.09 - 2024.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China. 
 
 
@@ -109,8 +107,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 # 📫 Services
 
 - Junior PC: MSR 2025, MSR 2024
-- Sub-reviewer: IEEE S&P, ISSTA-2025, Usenix Security 2025, ICSE-2025, NDSS-2025, ASE-2024, CCS-2024, ISSTA-2024, AISACCS-2024, WWW-2024, ASE-2023, FSE-2023, AILA 2023, FSE-2022, AILA 2022, Frontiers of Computer Science
-
+- Sub-reviewer: IEEE S&P 2025, ISSTA 2025, Usenix Security 2025, ICSE 2025, NDSS 2025, ASE 2024, CCS 2024, ISSTA 2024, AISACCS 2024, WWW 2024, ASE 2023, FSE 2023, AILA 2023, FSE 2022, AILA 2022, Frontiers of Computer Science
+- Journal Reviewer: ACM Transactions on Software Engineering and Methodology
 
 
 # 🎖 Honors and Awards
