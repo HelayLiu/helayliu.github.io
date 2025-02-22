@@ -14,7 +14,7 @@ redirect_from:
 <script>
     // load the bibtex file from the server: /assets/bibtex/myref.bib
     let bibtex_file = "/assets/bibtex/myref.bib";
-    let myname = "Yuqiang Sun";
+    let myname = "Han Liu";
     let parser = new BibtexParser();
     var fixValue = function (value) {
         value = value.replace(/\\glqq\s?/g, "&bdquo;");
