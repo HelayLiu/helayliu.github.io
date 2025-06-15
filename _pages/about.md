@@ -20,7 +20,7 @@ redirect_from:
 Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof. Shuai Wang](https://home.cse.ust.hk/~shuaiw/) and [Prof. Daoyuan Wu](https://daoyuan14.github.io/), in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST). He obtained his Ph.D. degree in Software Engineering Institute at East China Normal University (ECNU), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). He is also a visiting student at Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024. His research interests include program analysis, vulnerability detection.
 He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
 
-liuhan AT ust DOT hk
+💬 liuhan AT ust DOT hk
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
