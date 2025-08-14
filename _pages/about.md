@@ -25,7 +25,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our paper "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration" was accepted by ISSTA 2025
+- *2025.08*: &nbsp;🎉🎉 Our paper "Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts" and "Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study" were accepted by ASE 2025.
+- *2025.03*: &nbsp;🎉🎉 Our paper "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration" was accepted by ISSTA 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the Hong Kong University of Science and Technology as a postdoctoral scholar.
 - *2024.07*: &nbsp;🎉🎉 Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024.
 - *2024.07*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an ACM SIGSOFT Distinguished Paper award! 🏆
@@ -44,6 +45,17 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 <!-- </div>
 </div> -->
+- [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://doi.org/xxxxxxxxx) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)]() 
+  - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu, Yixiang Chen 
+  - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+
+- [Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study](https://doi.org/xxxxxxxxx) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)]() 
+  - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu
+  - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+
+
 - [Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration](https://doi.org/10.1145/3728870) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2025-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2504.01742-B31B1B?style=flat-square)](https://arxiv.org/pdf/2504.01742)
   - Zhiling Zhu, Tieming Chen, Chengwei Liu, **Han Liu**, Qijie Song, Zhengzi Xu, Yang Liu
@@ -114,8 +126,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 📫 Services
 
-- Junior PC: MSR 2025, MSR 2024
-- Sub-reviewer: NDSS 2026, CCS 2025, OOPSLA 2025, IEEE S&P 2025, ISSTA 2025, Usenix Security 2025, ICSE 2025, NDSS 2025, ASE 2024, CCS 2024, ISSTA 2024, AISACCS 2024, WWW 2024, ASE 2023, FSE 2023, AILA 2023, FSE 2022, AILA 2022, Frontiers of Computer Science
+- Junior PC: ICSE 2026, MSR 2025, MSR 2024
+- Sub-reviewer: NDSS 2026, ASE 2025, CCS 2025, OOPSLA 2025, IEEE S&P 2025, ISSTA 2025, Usenix Security 2025, ICSE 2025, NDSS 2025, ASE 2024, CCS 2024, ISSTA 2024, AISACCS 2024, WWW 2024, ASE 2023, FSE 2023, AILA 2023, FSE 2022, AILA 2022, Frontiers of Computer Science
 - Journal Reviewer: ACM Transactions on Software Engineering and Methodology
 
 
