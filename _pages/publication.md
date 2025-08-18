@@ -14,7 +14,7 @@ redirect_from:
 <script>
     // load the bibtex file from the server: /assets/bibtex/myref.bib
     let bibtex_file = "/assets/bibtex/myref.bib";
-    let myname = "Han Liu";
+    let myname = "Yuqiang Sun";
     let parser = new BibtexParser();
     var fixValue = function (value) {
         value = value.replace(/\\glqq\s?/g, "&bdquo;");
@@ -44,6 +44,14 @@ redirect_from:
         }
         return badge;
     }
+    var awardBadge = function(value){
+        var badge = "<img src='https://img.shields.io/badge/" + value + "-gold?style=flat-square'>";
+        return badge;
+    }
+    var opensourceBadge = function(value){
+        var badge = "<a href='" + value + "'><img src='https://img.shields.io/badge/Open-Source-blue?style=flat-square'></a>";
+        return badge;
+    }
     var authorBold = function(value){
         // first split by end
         var authors = value.split(" and ");
@@ -70,16 +78,19 @@ redirect_from:
     parser.setInput(bibtex_string);
     parser.bibtex();
     let entries = Object.values(parser.getEntries());
-    let html = "<ul>";
+    let html = "<ul class='publication-list'>";
     // sort by year, descending
     entries.sort(function(a, b) {
         return b["YEAR"] - a["YEAR"];
     });
-    let prev_year = 0;
-    for(let entry of entries) {
+    for(let i = 0; i < entries.length; i++) {
+        let entry = entries[i];
         let title = fixValue(entry["TITLE"]);
         let author = fixValue(entry["AUTHOR"]);
         let year = entry["YEAR"];
+        if (i == 0 || year != entries[i-1]["YEAR"]) {
+            html += "<h2>" + year + "</h2>";
+        }
         if ("JOURNAL" in entry) {
             var venue = fixValue(entry["JOURNAL"]);
         } else if ("BOOKTITLE" in entry) {
@@ -96,17 +107,24 @@ redirect_from:
         } else {
             var ccf = "";
         }
+        if ("AWARD" in entry){
+            var award = awardBadge(entry["AWARD"]);
+        } else {
+            var award = "";
+        }
         if("OPENSOURCE" in entry){
-            var opensource = "<li>This paper is open-sourced at <a href='" + entry["OPENSOURCE"] + "'>this website</a>.</li>";
+            var opensource = opensourceBadge(entry["OPENSOURCE"]);
         }else{
             var opensource = "";
         }
         html += "<li>";
-        html += "<span>" + year + ", " + title + "</span>\n" + ccf;
+        html += "<span>" + title + "</span>";
         html += "<ul>";
         html += "<li>" + authorBold(author) + "</li>";
-        html += "<li>" + venue + "</li>";
-        html += opensource;
+        html += "<li><em>" + venue + "</em></li>";
+        if (ccf != "" || award != "" || opensource != "") {
+            html += "<li>" + ccf + award + opensource + "</li>";
+        }
         html += "</ul>";
         html += "</li>";
     }

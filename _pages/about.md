@@ -56,17 +56,6 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 
 
-- [Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration](https://doi.org/10.1145/3728870) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2025-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2504.01742-B31B1B?style=flat-square)](https://arxiv.org/pdf/2504.01742)
-  - Zhiling Zhu, Tieming Chen, Chengwei Liu, **Han Liu**, Qijie Song, Zhengzi Xu, Yang Liu
-  - The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)
-
-
-- [PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software](https://doi.org/10.1145/3650212.3680305) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2407.17065-B31B1B?style=flat-square)](https://arxiv.org/pdf/2407.17065)
-  - Kaixuan Li, Jian Zhang, Sen Chen, **Han Liu**, Yang Liu, Yixiang Chen
-  - The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)
-
 - [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)[![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
@@ -74,23 +63,11 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
   - ZepScope is now open-sourced. Find more at [this website](https://zepscope.github.io/).
 
-
 - [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://doi.org/10.1145/3660772) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2404.18186-B31B1B?style=flat-square)](https://arxiv.org/pdf/2404.18186)
   - Kaixuan Li, Yue Xue, Sen Chen, **Han Liu**, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, Yixiang Chen
   - The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
   - ACM SIGSOFT Distinguished Paper award 🏆
-
-- [FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools.](https://arxiv.org/abs/2403.16032) 
-[![](https://img.shields.io/badge/arXiv-2401.16185-B31B1B?style=flat-square)](https://arxiv.org/pdf/2403.16032)
-  - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, Kaixuan Li, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, Yang Liu.
-  - Preprint 
-
-
-- [LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning](https://arxiv.org/abs/2401.16185) 
-[![](https://img.shields.io/badge/arXiv-2401.16185-B31B1B?style=flat-square)](https://arxiv.org/abs/2401.16185)
-  - Yuqiang Sun, Daoyuan Wu, Yue Xue, **Han Liu**, Wei Ma, Lyuye Zhang, Miaolei Shi, Yang Liu
-  - Preprint 
 
 - [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/abs/10.1145/3597503.3639117)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
@@ -98,11 +75,6 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024)  
   - [Slides for ICSE 2024](/assets/pdf/GPTScanSlides.pdf)
   - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
-
-- [Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java](https://doi.org/10.1145/3611643.3616262) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)]()
-  - Kaixuan Li, Sen Chen, Lingling Fan, Ruitao Feng, **Han Liu**, Chengwei Liu, Yang Liu, Yixiang Chen
-  - The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 
 - [A Comprehensive Study on Quality Assurance Tools for Java](https://doi.org/10.1145/3597926.3598056) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2305.16812-B31B1B?style=flat-square)](https://arxiv.org/abs/2305.16812)
