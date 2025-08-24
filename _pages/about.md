@@ -105,6 +105,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 🎖 Honors and Awards
 - ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
+-	The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2024.  
 - Shanghai Outstanding Graduate Student, Shanghai Municipal Education Commission, 2024.
 - Publicly Funded Postgraduate Scholarships, China Scholarship Council, 2022.
 - "HUAWEI CUP" 17th China Post-Graduate Mathematical Contest in Modeling 3rd Prize, 2020.
