@@ -89,7 +89,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 📖 Educations & Work Experience
 - *2024.09 - Now*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
-- *2022.02 - 2024.02*, visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
+- *2022.02 - 2024.02*, Visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
 - *2019.09 - 2024.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China. 
 
 
