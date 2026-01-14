@@ -25,6 +25,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper "Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem." was accepted by Uesnix Security 2026.
 - *2025.08*: &nbsp;🎉🎉 Our paper "Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts" and "Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study" were accepted by ASE 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration" was accepted by ISSTA 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the Hong Kong University of Science and Technology as a postdoctoral scholar.
@@ -39,12 +40,17 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2022.02*: &nbsp;🎉🎉 I joined Nanyang Technological University as a visiting Ph.D. student. 
 
 # 📝 Selected Publications [[Full List](/publication/)]
-
+* for the corresponding author.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
 <!-- </div>
 </div> -->
+- [Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem.](https://www.usenix.org/conference/usenixsecurity26/)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/UsenixSecurity-2026-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity26/) 
+  - Mingyuan Huang, **Han Liu***, Shuo Yang, Daoyuan Wu, and Shuai Wang.
+  - To appear in the Usenix Security 2026
+
 - [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://doi.org/xxxxxxxxx) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://conf.researchr.org/home/ase-2025) 
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu, Yixiang Chen 
@@ -100,7 +106,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 - Junior PC: ICSE 2026, MSR 2025, MSR 2024
 - Sub-reviewer: NDSS 2026, ASE 2025, CCS 2025, OOPSLA 2025, IEEE S&P 2025, ISSTA 2025, Usenix Security 2025, ICSE 2025, NDSS 2025, ASE 2024, CCS 2024, ISSTA 2024, AISACCS 2024, WWW 2024, ASE 2023, FSE 2023, AILA 2023, FSE 2022, AILA 2022, Frontiers of Computer Science
-- Journal Reviewer: ACM Transactions on Software Engineering and Methodology
+- Journal Reviewer: ACM Transactions on Software Engineering and Methodology, Cybersecurity.
 
 
 # 🎖 Honors and Awards
