@@ -40,7 +40,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2022.02*: &nbsp;🎉🎉 I joined Nanyang Technological University as a visiting Ph.D. student. 
 
 # 📝 Selected Publications [[Full List](/publication/)]
-* for the corresponding author.
+\* for the corresponding author.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
