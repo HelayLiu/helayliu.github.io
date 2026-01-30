@@ -20,7 +20,7 @@ redirect_from:
 Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof. Shuai Wang](https://home.cse.ust.hk/~shuaiw/) and [Prof. Daoyuan Wu](https://daoyuan14.github.io/), in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST). I obtained his Ph.D. degree in Software Engineering Institute at East China Normal University (ECNU), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). I was also a visiting student at Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024. My research interests include program analysis, vulnerability detection. I hope to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
 
 
-<span style="color:red;">I will join Nankai University as an Associate Professor (100 Young Academic Leaders of Nankai University) in March 2026！</span>
+<span style="color:red;">I will join Nankai University as an Associate Professor(100 Young Academic Leaders of Nankai University) in March 2026！We are looking for Ph.D. students with strong interests in software engineering and security. For more details, please refer to the homepage of [Prof. Sen Chen](https://sen-chen.github.io/).</span>
 
 
 
