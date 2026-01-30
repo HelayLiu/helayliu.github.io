@@ -20,7 +20,7 @@ redirect_from:
 Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof. Shuai Wang](https://home.cse.ust.hk/~shuaiw/) and [Prof. Daoyuan Wu](https://daoyuan14.github.io/), in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST). I obtained his Ph.D. degree in Software Engineering Institute at East China Normal University (ECNU), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). I was also a visiting student at Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024. My research interests include program analysis, vulnerability detection. I hope to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
 
 
-<span style="color:red;">I will join Nankai University as an Associate Professor (100 Young Academic Leaders of Nankai University) in March 2026 ！</span>
+<span style="color:red;">I will join Nankai University as an Associate Professor (100 Young Academic Leaders of Nankai University) in March 2026！</span>
 
 
 
@@ -51,12 +51,12 @@ Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof
   - Mingyuan Huang, **Han Liu***, Shuo Yang, Daoyuan Wu, and Shuai Wang.
   - To appear in the Usenix Security 2026
 
-- [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://doi.org/xxxxxxxxx) 
+- [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://ieeexplore.ieee.org/document/11334413) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://conf.researchr.org/home/ase-2025) 
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu, Yixiang Chen 
   - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 
-- [Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study](https://doi.org/xxxxxxxxx) 
+- [Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study](https://ieeexplore.ieee.org/document/11334489) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://conf.researchr.org/home/ase-2025) 
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu
   - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
@@ -94,7 +94,7 @@ Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof
 
 
 # 📖 Educations & Work Experience
-- *2024.09 - Now*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
+- *2024.09 - 2026.02*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
 - *2022.02 - 2024.02*, Visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
 - *2019.09 - 2024.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China. 
 
@@ -110,6 +110,7 @@ Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof
 
 
 # 🎖 Honors and Awards
+- Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, Shanghai Association of Artificial Intelligence (SAAI), 2026.
 - ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
 -	The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2024.  
 - Shanghai Outstanding Graduate Student, Shanghai Municipal Education Commission, 2024.
