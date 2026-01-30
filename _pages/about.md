@@ -29,7 +29,7 @@ Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper "Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem." was accepted by Uesnix Security 2026.
+- *2026.01*: &nbsp;🎉🎉 Our paper "Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem" was accepted by Uesnix Security 2026.
 - *2025.08*: &nbsp;🎉🎉 Our paper "Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts" and "Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study" were accepted by ASE 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration" was accepted by ISSTA 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the Hong Kong University of Science and Technology as a postdoctoral scholar.
@@ -37,7 +37,7 @@ Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof
 - *2024.07*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an ACM SIGSOFT Distinguished Paper award! 🏆
 - *2024.05*: &nbsp;🎉🎉 Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
 - *2024.05*: &nbsp;🎉🎉 I have passed my Ph.D thesis defense.
-- *2024.04*: &nbsp;🎉🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” was accepted by FSE 2024.
+- *2024.04*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024.
 - *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024.
 - *2023.07*: &nbsp;🎉🎉 Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023.
 - *2023.01*: &nbsp;🎉🎉 Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023.
