@@ -24,7 +24,7 @@ bibtex                   : "assets/bibtex/myref.bib"
 
 # Site Author
 author:
-  name             : "Han Liu (刘晗 in Chinese)"
+  name             : "Han Liu (刘晗)"
   avatar           : "/images/photo.jpg"
   bio              : "NanKai University"
   location         : "Tianjin, China"
