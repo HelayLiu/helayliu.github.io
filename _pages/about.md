@@ -61,7 +61,6 @@ I am now an associate professor (100 Young Academic Leaders of Nankai University
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu
   - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 
-
 - [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24)
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
