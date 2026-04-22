@@ -48,7 +48,7 @@ I am now an associate professor (100 Young Academic Leaders of Nankai University
 # 📝 Selected Publications [[Full List](/publication/)]
 \* for the corresponding author.
 
-- [Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem.](https://www.usenix.org/conference/usenixsecurity26/)
+- [Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem.](https://www.usenix.org/conference/usenixsecurity26/presentation/huang-mingyuan)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/UsenixSecurity-2026-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity26/) 
   - Mingyuan Huang, **Han Liu***, Shuo Yang, Daoyuan Wu, and Shuai Wang.
   - To appear in the Usenix Security 2026
@@ -68,7 +68,6 @@ I am now an associate professor (100 Young Academic Leaders of Nankai University
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
   - Usenix Security 2024 
   - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
-  - ZepScope is now open-sourced. Find more at [this website](https://zepscope.github.io/).
 
 - [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://doi.org/10.1145/3660772) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://conf.researchr.org/home/fse-2024) 
@@ -81,7 +80,6 @@ I am now an associate professor (100 Young Academic Leaders of Nankai University
   - Yuqiang Sun, Daoyuan Wu, Yue Xue, **Han Liu**, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
   - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024)  
   - [Slides for ICSE 2024](/assets/pdf/GPTScanSlides.pdf)
-  - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
 
 - [A Comprehensive Study on Quality Assurance Tools for Java](https://doi.org/10.1145/3597926.3598056) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)](https://conf.researchr.org/home/issta-2023) 
